@@ -3,6 +3,10 @@
 <head>
 	<title></title>
 	<meta charset="utf-8">
+    <style>
+    form{width:280px;height:160px;border:2px solid grey;
+    border-radius:6px;padding:10px;background-color:#d8bfd8}
+    </style>
 </head>
 <body>
 	<form id="radio_form">
