@@ -27,6 +27,7 @@ align=”right”
 align=”center” 
 align=”left” 
 ```
+```
 pre 原格式
 hr 分隔線
 h1~h6 文字標題
@@ -35,6 +36,7 @@ i 斜體字
 u 文字加底線
 sup 上標籤
 sub 下標籤
+```
 
 font 設定文字外觀
 ```
