@@ -13,10 +13,10 @@
 	    <!-- 單選 -->
       <form id="radio_form">
       	<b>哈哈哈哈</b><br>
-      	<label><input type="radio" name="fruit" value="A">A<br>
-      	<label><input type="radio" name="fruit" value="B">B<br>
-      	<label><input type="radio" name="fruit" value="C">C<br>
-      	<label><input type="radio" name="fruit" value="D">D<br>
+      	<label><input type="radio" name="fruit" value="A">A<br></label>
+      	<label><input type="radio" name="fruit" value="B">B<br></label>
+      	<label><input type="radio" name="fruit" value="C">C<br></label>
+      	<label><input type="radio" name="fruit" value="D">D<br></label>
 
       	<input type="submit" value="送出">
       	<input type="reset"  value="清除">
@@ -28,10 +28,10 @@
           <!-- <fruit>後加數字 -->
         <form id="checkbox_form">
         	<b>齁齁齁齁齁</b><br>
-        <label><input type="radio" name="fruit1" value="E">E<br>
-      	<label><input type="radio" name="fruit2" value="F">F<br>
-      	<label><input type="radio" name="fruit3" value="G">G<br>
-      	<label><input type="radio" name="fruit4" value="H">H<br>
+        <label><input type="radio" name="fruit1" value="E">E<br></label>
+      	<label><input type="radio" name="fruit2" value="F">F<br></label>
+      	<label><input type="radio" name="fruit3" value="G">G<br></label>
+      	<label><input type="radio" name="fruit4" value="H">H<br></label>
 
       	<input type="submit" value="送出">
       	<input type="reset"  value="清除">
