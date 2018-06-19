@@ -76,10 +76,11 @@ JavaScript
 script
 src=”” //script單獨放在其他的檔案內，該檔案的URL
 ```
-```
+
 事件屬性	發生時機
-onload	載入網頁時
-onclick	按一下滑鼠時
+```
+onload	    載入網頁時
+onclick	    按一下滑鼠時
 ondblclick	雙擊滑鼠時
 onmousedown	按下滑鼠時
 onmouseup	放開滑鼠時
