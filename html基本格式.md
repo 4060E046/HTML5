@@ -76,6 +76,7 @@ JavaScript
 script
 src=”” //script單獨放在其他的檔案內，該檔案的URL
 ```
+```
 事件屬性	發生時機
 onload	載入網頁時
 onclick	按一下滑鼠時
@@ -85,5 +86,5 @@ onmouseup	放開滑鼠時
 onmouseover	指標移動到物件上面時
 onmousemove	指標在物件上移動時
 onmouseout	指標移出物件時
-
+```
 
