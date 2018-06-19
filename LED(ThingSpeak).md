@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -29,3 +30,4 @@
 </html>
 
 <!-- ThingSpeak -->
+```
