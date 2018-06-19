@@ -12,21 +12,21 @@ html基本格式
 </body>
 </html>
 ```
-```
-body 網頁主體
 
+body 網頁主體
+```
 background=”” //背景圖片 
 bgcolor=”” //背景顏色 
 text=”” //本文文字顏色
-
+```
 br 強制換行
 
 p 文字分段
-
+```
 align=”right” 
 align=”center” 
 align=”left” 
-
+```
 pre 原格式
 hr 分隔線
 h1~h6 文字標題
@@ -35,7 +35,9 @@ i 斜體字
 u 文字加底線
 sup 上標籤
 sub 下標籤
+
 font 設定文字外觀
+```
 size=”” //字體大小 
 face=”” //文字字型 
 color=”” //顏色
@@ -51,7 +53,6 @@ color=”” //顏色
 圖片
 ```
 img
-
    src=”” //圖片連結 
    border=”” //圖片邊框 
    height=”” //圖片高度 
